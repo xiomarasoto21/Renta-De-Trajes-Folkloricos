@@ -1,0 +1,99 @@
+body {
+    background-image: url("fondo2.jpg");
+    background-repeat: no-repeat;
+    background: cover;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 100%;
+        position: absolute;
+        color: #ffffff;
+    /*
+    background-color: black;
+    background-image: 
+      radial-gradient(circle at center, transparent, black),
+      repeating-linear-gradient(90deg, rgb(228, 230, 120), rgb(177, 172, 75) 2px, rgb(212, 193, 43) 2px);
+    color:white;
+    font-family:system-ui, sans-serif;
+    height: 100svh;
+    padding: 0.8rem 2rem;
+    display: grid;
+    place-items: center;*/
+   
+  }
+  /*
+  h1 {
+    font-family: "Underdog", system-ui, sans-serif;
+    
+    font-size: clamp(2rem, 1.652rem + 1.739vw, 3rem);
+  }
+  
+  p{
+    font-size:1.1rem;
+  }
+  
+  .grid {
+    display: grid;
+    gap:1.2rem;
+    max-width: 50rem;
+  }*/
+   
+  .btn {
+    border: none;
+    color: rgb(0, 0, 0);
+    padding: 14px 28px;
+    cursor: pointer;
+    border-radius: 5px;
+    }
+    .aguascalientes {background-color: #fffffff3;}
+    .aguascalientes:hover {background-color: #b081d1;}
+
+    .campeche {background-color: #fffffff3;}
+    .campeche:hover {background: #6b5b09;}
+
+    .chiapas {background-color: #fffffff3;}
+    .chiapas:hover {background-color: #d7c30e;}
+
+    .chihuahua {background-color:#fffffff3;}
+    .chihuahua:hover {background: #db4141;}
+
+    .nuevoleon {background-color: #fffffff3;}
+    .nuevoleon:hover {background: #e39001;}
+
+    .jalisco{background-color: #fffffff3;}
+    .jalisco:hover {background: #da610b;}
+
+    .nayarit{background-color: #fffffff3;}
+    .nayarit:hover {background: #e6356a;}
+
+    .oaxaca {background-color: #fffffff3;}
+    .oaxaca:hover {background-color: #66340d;}
+
+    .sinaloa{background-color: #fffffff3;}
+    .sinaloa:hover {background: #1e89c8;}
+
+    .sonora {background-color: #fffffff3;}
+    .sonora:hover {background: #65c631;}
+
+    .tabasco {background-color:#fffffff3;}
+    .tabasco:hover {background: #07791f;}
+
+    .veracruz {background-color: #fffffff3;}
+    .veracruz:hover {background: #dbd9d9ea;}
+
+    .zacatecas {background-color: #fffffff3;}
+    .zacatecas:hover {background-color: #da4646;}
+
+    .catrinas{background-color: #fffffff3;}
+    .catrinas:hover {background: #5b5959;}
+
+    .aztecas{background-color: #fffffff3;}
+    .aztecas:hover {background: #0ebae1;}
+
+    .danza{background-color: #fffffff3;}
+    .danza:hover {background: #695529;}
+
+    .volver{background-color: #fffffff3;}
+    .volver:hover {background: #1e89c8;}
+
+    
